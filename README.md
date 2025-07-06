@@ -1,6 +1,6 @@
 # Serenatto - Café & Bistrô
 
-Este projeto é o website oficial do "Serenatto", um café e bistrô que oferece um ambiente aconchegante para desfrutar de um bom café, além de diversos serviços e produtos. O site foi desenvolvido com foco em uma experiência de usuário agradável e responsiva.
+Este projeto é o website oficial do "Serenatto" do curso bootstrap da alura(sendo que fiz com base no figma. Em resumo é um projeto de um café um e bistrô que oferece um ambiente aconchegante para desfrutar de um bom café, além de diversos serviços e produtos. O site foi desenvolvido com foco em uma experiência de usuário agradável e responsiva.
 
 ## ☕ Sobre o Serenatto
 
